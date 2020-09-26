@@ -1,1 +1,0 @@
-../../macos/UNTETHERED/make_iBoot.sh

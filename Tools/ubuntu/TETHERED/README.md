@@ -1,1 +1,0 @@
-../../macos/TETHERED/README.md
